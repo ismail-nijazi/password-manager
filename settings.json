@@ -1,0 +1,23 @@
+{
+    "settings": {
+        "theme": "Classic",
+        "language": "English",
+        "time": 5
+    },
+    "Themes": {
+        "Dark": {
+            "sidebar-textColor": "#fff",
+            "bgColorFrameLeftSide": "#383838",
+            "frameMainBgColor": "#808080",
+            "bgColorFrameRightSide": "#636363",
+            "AddPagesTextColor": "#fff"
+        },
+        "Classic": {
+            "sidebar-textColor": "#000",
+            "bgColorFrameLeftSide": "#b0b0b0",
+            "frameMainBgColor": "#d4d4d4",
+            "bgColorFrameRightSide": "#c7c7c7",
+            "AddPagesTextColor": "#000"
+        }
+    }
+}
