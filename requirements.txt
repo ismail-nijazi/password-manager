@@ -1,0 +1,2 @@
+cryptography==37.0.4
+PyQt5==5.15.7
